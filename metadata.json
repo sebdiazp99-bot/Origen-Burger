@@ -1,0 +1,7 @@
+{
+  "name": "ORIGEN BURGER",
+  "description": "Una cocina oculta (ghost kitchen) moderna y de alta gama con seguimiento de pedidos en tiempo real, selección de menú y asistente de IA personalizado.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
